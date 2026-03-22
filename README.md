@@ -11,8 +11,8 @@ And chai.js will dynamically convert them into inline styles — no build step, 
 
 ## 🚀 Live Demo
 
-🔗 Live Site: https://your-site.netlify.app  
-💻 GitHub Repo: https://github.com/your-username/chai-tailwind
+🔗 Live Site: https://chaijstailwind.netlify.app <br>
+💻 GitHub Repo: https://github.com/Adityacyber/chaiTailwind.git
 
 ---
 
@@ -77,7 +77,7 @@ chai-tailwind/
 ## 🛠️ Installation
 
 ### 1. Clone the repo
-```git clone https://github.com/your-username/chai-tailwind.git```
+```git clone https://github.com/Adityacyber/chaiTailwind.git```
 
 ### 2. Open project
 
